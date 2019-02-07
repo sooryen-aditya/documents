@@ -1,11 +1,11 @@
-#Install nginx
+# Install nginx
 
 ## Install nginx
 ```
 sudo apt-get install nginx
 ```
 
-## Install php
+## Install php with php 7.0
 ```
 sudo apt-get install php7.0 \
 php7.0-bcmath \
